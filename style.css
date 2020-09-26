@@ -1,0 +1,14 @@
+body{
+    height: 85vh;
+    width: 85;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: rgb(6, 70, 6);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.bg-footer{
+    background-color: rgb(249, 250, 248);
+    color: rgb(0, 0, 0)
+}

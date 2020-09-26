@@ -27,7 +27,7 @@ function criarCobra(){
 }
 
 function drawFood(){
-    context.fillStyle = "red";
+    context.fillStyle = "blue";
     context.fillRect(food.x, food.y, box, box);
 }
 
