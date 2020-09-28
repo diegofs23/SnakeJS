@@ -1,5 +1,5 @@
 
-#SNAKE GAME teste aqui --> "[SnakeGame](https://diegofs23/diegofs23.github.io/ "snakegame")"
+#SNAKE GAME teste aqui --> "[SnakeGame](https://diegofs23.github.io/ "snakegame")"
 Nosso famoso joguinho da cobrinha, nastaligia da época dos celulares da nókia.
 
 **** ATUALIZAÇÃO **** 
