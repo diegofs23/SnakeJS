@@ -22,12 +22,12 @@ function criarBG(){
 function criarCobra(){
     for(i=0; i < snake.length; i++){
         context.fillStyle = "green";
-        context.fillRect(snake[i].x, snake[i].y, box, box);
+        context.fillRect(snake[i].x, snake[i].y, box-2, box-2);
     }
 }
 
 function drawFood(){
-    context.fillStyle = "blue";
+    context.fillStyle = "red";
     context.fillRect(food.x, food.y, box, box);
 }
 
@@ -41,7 +41,7 @@ function update(event){
 }
 
 function iniciarJogo(){
-    
+
     if(snake[0].x > 15 * box && direction == "right") snake[0].x = 0;
     if(snake[0].x < 0 && direction == "left") snake[0].x = 16 * box;
     if(snake[0].y > 15 * box && direction == "down") snake[0].y = 0;
