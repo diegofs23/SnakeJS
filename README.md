@@ -12,4 +12,5 @@ Nosso famoso joguinho da cobrinha, nastaligia da época dos celulares da nókia.
 Recriando o Jogo da cobrinha com Javascript!
 
 #Ultimo commit add uma imagem de fundo no css! <3
+#################################################
 
